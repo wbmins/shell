@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "jable.tv",
+        "hanime.tv",
+        "rule34video.com",
+        "e-hentai.org",
+        "manhuabika.com",
+        "hanime1.me",
+        "white-plus.net"
+      ],
+      "domain_suffix": [
+        "hanime1.me",
+        "picacomic.com"
+      ]
+    }
+  ]
+}
